@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Активности</string>
+    <string name="title_activity_second">Передача данных</string>
+    <string name="about_title">О программе</string>
+    <string name="to">Кому</string>
+    <string name="description">Описание</string>
+    <string name="send">Передать</string>
+</resources>
